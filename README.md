@@ -60,6 +60,6 @@ Para obtener más informacón sobre la aplicación y su funcionamiento interno, 
 
 Organismos colaboradores:
 
-![IES Miguel Herrero]()
+![IES Miguel Herrero](logoIESMHP.png)
 
 ![Hospital de Valdecilla](https://www.eiivaldecilla.es/wp-content/uploads/5525-nuevo-logo-valdecilla.jpg)
