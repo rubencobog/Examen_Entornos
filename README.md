@@ -1,7 +1,7 @@
 # Documentación de la Aplicación de Gestión Hospitalaria
 
 ## Índice
-- [Documentación de la aplicación de Gestión Hospitalaria]()
+- [Documentación de la aplicación de Gestión Hospitalaria](documentacion-tecnica.md)
  - [Índice](#Índice)
  - [Introducción](#Introducción)
  - [Instalación](#Instalación)
