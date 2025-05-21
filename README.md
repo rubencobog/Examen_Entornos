@@ -9,7 +9,7 @@
  - [Contribución](#Contribución)
  - [Licencia](#Licencia)
 
- ## Introducción
+## Introducción
 
  El Sistema de Gestión Hospitalatia desarrollado por el alumnado del **IES MIGUEL HERRERO PEREDA** permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro médico de forma segura y eficiente.
 
